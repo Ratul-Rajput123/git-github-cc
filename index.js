@@ -7,5 +7,5 @@ function ko() {
 }
 
 function jo() {
-    console.log("jo")
+    console.log("joker")
 }
