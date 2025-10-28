@@ -9,3 +9,6 @@ function ko() {
 function jo() {
     console.log("joker")
 }
+function po() {
+    console.log("poker")
+}
